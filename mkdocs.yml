@@ -1,0 +1,7 @@
+site_name: HaiyuCodeStyleGuide
+nav:
+    - Home: index.md
+    - 前端: frontend.md
+    - 后端: backend.md
+    - Git: git.md
+theme: readthedocs
